@@ -24,7 +24,7 @@ Análisis end-to-end para evaluar el desempeño de un servicio de suscripción m
 ### Tecnologías
 Python • SQL • Power BI • Estadística
 
-🔗 Ver Proyecto
+🔗 Ver Proyecto :   https://github.com/jessicaflorez55/jessicaflorez.github.io  
 
 ## 🏢 Dashboard Ejecutivo para Análisis Comercial Inmobiliario
 
@@ -33,7 +33,7 @@ Desarrollo de un dashboard ejecutivo en Power BI para analizar ventas, clientes,
 ### Tecnologías
 Power BI • DAX • Modelado de Datos
 
-🔗 Ver Proyecto
+🔗 Ver Proyecto: https://github.com/jessicaflorez55/jessicaflorez2.github.io 
 
 ## 🛒 Análisis de Funnel y Retención de Usuarios en E-commerce
 
@@ -42,7 +42,7 @@ Análisis de comportamiento de usuarios mediante SQL para identificar puntos de 
 ### Tecnologías
 SQL • Funnel Analysis • Cohort Analysis
 
-🔗 Ver Proyecto
+🔗 Ver Proyecto:  https://github.com/jessicaflorez55/jessicaflorez3.github.io 
 
 ## 📈 Impacto Analítico
 
