@@ -3,7 +3,14 @@
 
 Profesional en Administración de Empresas con experiencia en operaciones y marketing, interesada en el análisis de negocio y la toma de decisiones basada en información.
 
-A lo largo de mis proyectos he trabajado en la evaluación de estrategias comerciales, comportamiento de clientes, rentabilidad y desempeño de productos, apoyándome en herramientas como SQL, Python y Power BI para generar insights que contribuyan al crecimiento y la eficiencia de las organizaciones.
+A lo largo de mis proyectos he trabajado en la evaluación de estrategias comerciales, comportamiento de clientes, rentabilidad y desempeño de productos, apoyándome en herramientas como SQL, 
+Python y Power BI para generar insights que contribuyan al crecimiento y la eficiencia de las organizaciones.
+
+📬 Contacto
+LinkedIn: www.linkedin.com/in/jessica-florez-35713817b
+
+Email:jessicaflorez9455@gmail.com
+
 
 ## 🛠️ Herramientas
 
@@ -56,8 +63,4 @@ A través de estos proyectos he trabajado en:
 - Construcción de dashboards ejecutivos.
 - Generación de insights para la toma de decisiones.
 
-## 📬 Contacto
 
-LinkedIn: www.linkedin.com/in/jessica-florez-35713817b
-
-Email:jessicaflorez9455@gmail.com
