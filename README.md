@@ -1,27 +1,37 @@
 # jessica-florez-portfolio
-# 👋 Hola, soy Jessica Florez
+## 👋 Hola, soy Jessica Florez
 
 Profesional en Administración de Empresas con experiencia en operaciones y marketing, interesada en el análisis de negocio y la toma de decisiones basada en información.
 
 A lo largo de mis proyectos he trabajado en la evaluación de estrategias comerciales, comportamiento de clientes, rentabilidad y desempeño de productos, apoyándome en herramientas como SQL, 
 Python y Power BI para generar insights que contribuyan al crecimiento y la eficiencia de las organizaciones.
 
-📬 Contacto
-LinkedIn: www.linkedin.com/in/jessica-florez-35713817b
 
-Email:jessicaflorez9455@gmail.com
+### Herramientas y Tecnologías**
+#### 📊Análisis y Visualización
 
+Tableau
+Power BI
+Excel
+Google Sheets
 
-## 🛠️ Herramientas
+#### 🗄️ Bases de Datos
 
-- SQL
-- Python
-- Power BI
-- Excel
-- Pandas
-- Estadística
-- Data Visualization
-- Business Analytics
+SQL
+MySQL
+
+#### 🐍 Programación y Análisis
+
+Python
+Pandas
+NumPy
+
+#### 📈 Marketing y Negocio
+
+KPI Tracking
+Funnel Analysis
+Cohort Analysis
+Segmentación de Clientess
 
 # 📂 Proyectos Destacados
 ## 📊 RappiPlus: Análisis de Rentabilidad, Conversión y Retención
@@ -29,7 +39,7 @@ Email:jessicaflorez9455@gmail.com
 Análisis end-to-end para evaluar el desempeño de un servicio de suscripción mediante KPIs financieros, funnel de conversión, cohortes y experimentación A/B.
 
 ### Tecnologías
-Python • SQL • Power BI • Estadística
+Python • SQL • Power BI • Estadística 
 
 🔗 Ver Proyecto :   https://github.com/jessicaflorez55/jessicaflorez.github.io  
 
@@ -63,4 +73,12 @@ A través de estos proyectos he trabajado en:
 - Construcción de dashboards ejecutivos.
 - Generación de insights para la toma de decisiones.
 
+## Gracias por visitar mi portfolio
 
+Si alguno de estos proyectos despertó tu interés o consideras que mi perfil puede aportar valor a tu equipo, estaré encantada de conversar.
+Actualmente me encuentro abierta a oportunidades en áreas de análisis de negocio, operaciones, marketing y gestión de proyectos.
+
+📧 Correo: jessicaflorez9455@gmail.com
+💼 LinkedIn: LinkedIn: www.linkedin.com/in/jessica-florez-35713817b 
+
+Espero poder conectar contigo pronto.
