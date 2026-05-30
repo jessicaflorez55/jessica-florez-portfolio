@@ -7,28 +7,28 @@ A lo largo de mis proyectos he trabajado en la evaluación de estrategias comerc
 ### Herramientas y Tecnologías**
 #### 📊Análisis y Visualización
 
-Tableau
-Power BI
-Excel
-Google Sheets
+•Tableau
+•Power BI
+•Excel
+•Google Sheets
 
 #### 🗄️ Bases de Datos
 
-SQL
-MySQL
+•SQL
+•MySQL
 
 #### 🐍 Programación y Análisis
 
-Python
-Pandas
-NumPy
+•Python
+•Pandas
+•NumPy
 
 #### 📈 Marketing y Negocio
 
-KPI Tracking
-Funnel Analysis
-Cohort Analysis
-Segmentación de Clientess
+•KPI Tracking
+•Funnel Analysis
+•Cohort Analysis
+•Segmentación de Clientess
 
 # 📂 Proyectos Destacados
 ## 📊 RappiPlus: Análisis de Rentabilidad, Conversión y Retención
