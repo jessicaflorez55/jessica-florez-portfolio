@@ -2,10 +2,7 @@
 ## 👋 Hola, soy Jessica Florez
 
 Profesional en Administración de Empresas con experiencia en operaciones y marketing, interesada en el análisis de negocio y la toma de decisiones basada en información.
-
-A lo largo de mis proyectos he trabajado en la evaluación de estrategias comerciales, comportamiento de clientes, rentabilidad y desempeño de productos, apoyándome en herramientas como SQL, 
-Python y Power BI para generar insights que contribuyan al crecimiento y la eficiencia de las organizaciones.
-
+A lo largo de mis proyectos he trabajado en la evaluación de estrategias comerciales, comportamiento de clientes, rentabilidad y desempeño de productos, apoyándome en herramientas como SQL, Python y Power BI para transformar datos en información que apoye la toma de decisiones y contribuya al crecimiento y la eficiencia de las organizaciones.
 
 ### Herramientas y Tecnologías**
 #### 📊Análisis y Visualización
